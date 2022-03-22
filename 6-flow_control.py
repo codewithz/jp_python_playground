@@ -30,7 +30,7 @@ elif(b>a and b>c):
 else:
     print(c,'is greater than',b,'and',a);
 #-----------------------------------------------------------
-
+#Short Hand Operators
 a=10;
 b=10;
 
@@ -46,5 +46,8 @@ a=50;
 b=50;
 
 print('A') if (a>b) else print('=') if a==b else print('B')
+
+# " Don't "
+# 'Don't'
 
 
